@@ -17,7 +17,7 @@ public class DND5E
     public static final String NAME = "DnD 5e";
     public static final String VERSION = "0.1";
 
-    private static Logger logger;
+    private static Logger logger; 
 
     //MOD Global Variables
     public static ToolMaterial myToolMaterial;
