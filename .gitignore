@@ -1,0 +1,8 @@
+.gradle
+.metadata
+.settings
+.vscode
+/bin
+/build
+/eclipse
+/run
